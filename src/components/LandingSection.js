@@ -3,8 +3,8 @@ import { Avatar, Heading, VStack, AvatarGroup, Text } from "@chakra-ui/react";
 import FullScreenSection from "./FullScreenSection";
 
 const greeting = "Hello, I am Nang Bui (John)!";
-const bio1 = "A full stack developer";
-const bio2 = "specialised in React";
+const bio1 = "A computer science major at the University of Arkansas - Fort Smith";
+const bio2 = "Concentrated in AI and Data Science.";
 
 // Implement the UI for the LandingSection component according to the instructions.
 // Use a combination of Avatar, Heading and VStack components.

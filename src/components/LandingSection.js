@@ -15,7 +15,7 @@ const LandingSection = () => (
     isDarkBackground
     backgroundColor="#2A4365"
   >
-    <Avatar size = "2xl" src = "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.15752-9/437667684_359608567088173_7660321299825022919_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TrIE7D5bazoQ7kNvgEWgoLz&_nc_ht=scontent-dfw5-2.xx&oh=03_Q7cD1QFz6BuwWmkuXw76gxy5aLynXrBPY1xyhr92kSomk0Ds9A&oe=665AAA52"/>  
+    <Avatar size = "2xl" src = {require("../images/Avatar.jpg")}/>  
     <Text fontSize="md">{greeting}</Text>
     <br/>
     <Text as = "b" fontSize="4xl">{bio1}</Text>

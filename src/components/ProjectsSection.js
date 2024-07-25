@@ -5,6 +5,13 @@ import Card from "./Card";
 
 const projects = [
   {
+    link: "https://nangjohnbui3010.github.io/guess-the-word/",
+    title: "Guess the word",
+    description:
+      "A word guessing game inspired by Wordle. Animations acquired from Framer Motion.",
+    getImageSrc: () => require("../images/guess-the-word2.png"),
+  },
+  {
     link: "https://nangjohnbui3010.github.io/QuickDate/",
     title: "Quick Date",
     description:

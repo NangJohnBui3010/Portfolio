@@ -18,6 +18,13 @@ const projects = [
       "A dating app simulator made with ReactJS that matches you with the opposite gender and with characteristics fetched from randomuser.me.",
     getImageSrc: () => require("../images/QuickDate.jpg"),
   },
+  {
+    link: "https://github.com/NangJohnBui3010/Book-Library-Webapp",
+    title: "Book Library Web App",
+    description:
+      "Book Web App that lets you add any books to your personal library. Using OpenLibrary API.",
+    getImageSrc: () => require("../images/book.png"),
+  }
 ];
 
 const ProjectsSection = () => {

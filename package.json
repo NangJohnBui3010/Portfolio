@@ -4,8 +4,8 @@
   "homepage": "https://NangJohnBui3010.github.io/Portfolio",
   "private": true,
   "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
-    "@emotion/react": "^11.11.3",
+    "@chakra-ui/react": "^2.10.9",
+    "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.11.0",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",

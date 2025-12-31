@@ -24,15 +24,7 @@ const socials = [
   {
     icon: faLinkedin,
     url: "https://www.linkedin.com/in/nang-bui-0a111a276/",
-  },
-  {
-    icon: faFacebook,
-    url: "https://www.facebook.com/nang.bui.50746444",
-  },
-  {
-    icon: faInstagram,
-    url: "https://www.instagram.com/johnbui05/",
-  },
+  }
 ];
 
 const Header = () => {
@@ -78,6 +70,7 @@ const Header = () => {
             <HStack spacing={8}>
               {/* Add links to Projects and Contact me section */}
               <Link to="/#contact-me" onClick={handleClick("contactme")}>Contact Me</Link>
+              <Link to="/#experience" onClick={handleClick("experience")}>Experience</Link>
               <Link to="/#projects" onClick = {handleClick("projects")}>Projects</Link>
             </HStack>
           </nav>

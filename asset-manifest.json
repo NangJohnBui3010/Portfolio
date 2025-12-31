@@ -1,18 +1,29 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/Portfolio/static/js/main.36eabdec.js",
+    "main.js": "/Portfolio/static/js/main.bef5bcef.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/ABB_Plant.jpeg": "/Portfolio/static/media/ABB_Plant.1513d09b801752221cc9.jpeg",
+    "static/media/ABB_Signing.jpeg": "/Portfolio/static/media/ABB_Signing.62e9036376bd3a169035.jpeg",
+    "static/media/ABB_Volunteer.jpg": "/Portfolio/static/media/ABB_Volunteer.39502841791daeff9e3b.jpg",
+    "static/media/ABB_Certificate.jpeg": "/Portfolio/static/media/ABB_Certificate.b8266caf7918d877edd8.jpeg",
+    "static/media/ABB_Workday.jpeg": "/Portfolio/static/media/ABB_Workday.7691727a30bf610e9f31.jpeg",
     "static/media/Avatar.jpg": "/Portfolio/static/media/Avatar.8ae48b713c5f9fb149dc.jpg",
+    "static/media/UAFS_ASC.png": "/Portfolio/static/media/UAFS_ASC.dae6ec101a6a0f21cc19.png",
+    "static/media/2024-2025 ICPC.png": "/Portfolio/static/media/2024-2025 ICPC.c5049af57c4b29961b6b.png",
+    "static/media/2025-2026 ICPC.png": "/Portfolio/static/media/2025-2026 ICPC.1ddbc850d839672c1a78.png",
+    "static/media/2024-2025 ICPC medal.png": "/Portfolio/static/media/2024-2025 ICPC medal.6476b7301d745da958ef.png",
+    "static/media/2025-2026 ranked.png": "/Portfolio/static/media/2025-2026 ranked.23b4988bf9f45a76c789.png",
+    "static/media/icpc.png": "/Portfolio/static/media/icpc.b844e7e44f0a31742a16.png",
     "static/media/book.png": "/Portfolio/static/media/book.e19349bb0f971f5e5919.png",
     "static/media/guess-the-word2.png": "/Portfolio/static/media/guess-the-word2.30a810a469fcf82b718a.png",
     "index.html": "/Portfolio/index.html",
     "main.e6c13ad2.css.map": "/Portfolio/static/css/main.e6c13ad2.css.map",
-    "main.36eabdec.js.map": "/Portfolio/static/js/main.36eabdec.js.map",
+    "main.bef5bcef.js.map": "/Portfolio/static/js/main.bef5bcef.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.36eabdec.js"
+    "static/js/main.bef5bcef.js"
   ]
 }
